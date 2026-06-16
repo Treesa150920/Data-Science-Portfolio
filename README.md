@@ -3,7 +3,20 @@
 
 Welcome to my portfolio! This repository contains my project-based implementations of Deep Learning, Machine Learning, and Natural Language Processing architectures, demonstrating my ability to structure data, build models, and evaluate predictive accuracy.
 
-## 📂 Repository Structure
+---
+
+## 📂 Repository Navigation
+Click on the folders below to explore the project code, visualizations, and documentation:
+
+* [**Artificial Neural Networks (ANN)**](ANN/)
+* [**Convolutional Neural Networks (CNN)**](CNN/)
+* [**Natural Language Processing (NLP)**](NLP/)
+* [**Machine Learning (HR Analytics)**](Machine_Learning_HR_Analytics/)
+* [**Power BI Dashboards**](Power_BI_Dashboards/)
+
+---
+
+## 🚀 Project Details
 
 ### 🧠 1. Artificial Neural Networks (ANN)
 Designed and trained Artificial Neural Networks for tabular data classification using **TensorFlow** and **Keras**.
@@ -17,10 +30,13 @@ Designed and trained Artificial Neural Networks for tabular data classification 
 *   **Text Preprocessing:** Built data preparation pipelines utilizing the `nltk` library to execute Tokenization, Stemming, Lemmatization, and Stop Word Removal.
 *   **Feature Extraction:** Transformed unstructured text into numerical data for machine learning models utilizing Bag of Words (BoW) and Term Frequency-Inverse Document Frequency (TF-IDF) via `scikit-learn`.
 
-  ### 📊 4. Machine Learning (HR Analytics)
+### 📊 4. Machine Learning (HR Analytics)
 *   **Employee Attrition Prediction:** Executed a complete machine learning workflow on HR operational data to predict employee turnover. 
-*   **Data Cleaning & EDA:** Conducted Exploratory Data Analysis (EDA), performed correlation analysis, and applied the Interquartile Range (IQR) method to mathematically detect and remove statistical outliers from continuous variables (e.g., Monthly Income, Total Working Years).
-*   **Feature Engineering:** Utilized `scikit-learn`'s `LabelEncoder` to transform categorical business data into machine-readable numeric formats for predictive modeling.
+*   **Data Cleaning & EDA:** Conducted Exploratory Data Analysis (EDA), performed correlation analysis, and applied the Interquartile Range (IQR) method to mathematically detect and remove statistical outliers from continuous variables.
+*   **Feature Engineering:** Utilized `scikit-learn`'s `LabelEncoder` to transform categorical business data into machine-readable numeric formats.
+
+### 📈 5. Power BI Dashboards
+*   **HR Analytics Dashboard:** Developed interactive dashboards to visualize workforce metrics and support data-driven decision-making. Focused on DAX calculations, Power Query transformations, and effective data storytelling to communicate business insights.
 
 ---
 
