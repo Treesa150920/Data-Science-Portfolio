@@ -17,6 +17,11 @@ Designed and trained Artificial Neural Networks for tabular data classification 
 *   **Text Preprocessing:** Built data preparation pipelines utilizing the `nltk` library to execute Tokenization, Stemming, Lemmatization, and Stop Word Removal.
 *   **Feature Extraction:** Transformed unstructured text into numerical data for machine learning models utilizing Bag of Words (BoW) and Term Frequency-Inverse Document Frequency (TF-IDF) via `scikit-learn`.
 
+  ### 📊 4. Machine Learning (HR Analytics)
+*   **Employee Attrition Prediction:** Executed a complete machine learning workflow on HR operational data to predict employee turnover. 
+*   **Data Cleaning & EDA:** Conducted Exploratory Data Analysis (EDA), performed correlation analysis, and applied the Interquartile Range (IQR) method to mathematically detect and remove statistical outliers from continuous variables (e.g., Monthly Income, Total Working Years).
+*   **Feature Engineering:** Utilized `scikit-learn`'s `LabelEncoder` to transform categorical business data into machine-readable numeric formats for predictive modeling.
+
 ---
 
 ## 🛠️ Core Technologies Stack
